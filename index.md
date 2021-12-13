@@ -14,3 +14,4 @@ Learn more about the most fabulous animal in the world - the meerkat.
 + [Mating and Reproduction](MatingAndReproductionInformation.html)
 + [Diet Information](diet_information.html)
 + [Anatomy & Biology](AnimalAnatomyAndBiology.html)
++ [Behavior](AnimalBehavior.html)
