@@ -1,6 +1,6 @@
 ﻿# Meerkat Project Website
 
-Showcases the innate superiority of Meerkats for all to see.
+Learn more about the most fabulous animal in the world - the meerkat.
 
 ## Gallery
 
