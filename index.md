@@ -12,5 +12,5 @@ Learn more about the most fabulous animal in the world - the meerkat.
 
 + [Scientific Name & Classification](ScientificNameaAndClassification.html)
 + [Mating and Reproduction](MatingAndReproductionInformation.html)
-+ [Diet](diet_information.html)
++ [Diet Information](diet_information.html)
 + [Anatomy & Biology](AnimalAnatomyAndBiology.html)
