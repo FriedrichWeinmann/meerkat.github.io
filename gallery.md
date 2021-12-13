@@ -1,6 +1,6 @@
 ﻿# Picture Gallery
 
-+ [Picture 1](pictures/picture1.html)
-+ [Picture 2](pictures/picture2.html)
-+ [Picture 3](pictures/picture3.html)
-+ [Picture 4](pictures/picture4.html)
++ [Sociable animals](pictures/picture1.html)
++ [Meerkats Babies](pictures/picture2.html)
++ [Enemies](pictures/picture3.html)
++ [Habitat](pictures/picture4.html)
