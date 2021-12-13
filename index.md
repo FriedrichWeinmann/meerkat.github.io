@@ -6,6 +6,10 @@ Learn more about the most fabulous animal in the world - the meerkat.
 
 [Find pictures here](gallery.html)
 
+## More Infos
+
++ [Mating and Reproduction](MatingAndReproductionInformation.html)
+
 > Editing Notes
 
 + [Writing Markdown Cheat-Sheet](md-tutorial.html)

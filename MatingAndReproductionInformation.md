@@ -1,4 +1,4 @@
-# Merkat Mating and Reproduction Information
+# Meerkat Mating and Reproduction Information
 
 + Gestation period: 70 -77 days
 + Number of typically offspring: Eight babies
