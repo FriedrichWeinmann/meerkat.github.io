@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+#footer_wrap {display: none;}
 body {
     box-sizing: border-box;
     color:#373737;
