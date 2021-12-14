@@ -4,6 +4,11 @@
 @import "{{ site.theme }}";
 #footer_wrap {display: none;}
 #forkme_banner {display: none;}
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
 body {
     box-sizing: border-box;
     color:#373737;
