@@ -1,7 +1,8 @@
 ﻿---
 ---
 
-@import "";
+@import "{{ site.theme }}";
+
 body {
     background-color: #F1CEBB;
 }
