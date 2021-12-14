@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+# --- Background colour/image options --- #
+
+page-col: "#F1CEBB"
