@@ -8,7 +8,7 @@ Learn more about the most fabulous animal in the world - the meerkat.
 
 [Find pictures here](gallery.html)
 
-## More Infos
+## More Information
 
 + [Scientific Name & Classification](ScientificNameaAndClassification.html)
 + [Mating and Reproduction](MatingAndReproductionInformation.html)
