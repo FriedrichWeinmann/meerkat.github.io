@@ -5,7 +5,7 @@ theme: jekyll-theme-slate
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#F1CEBB"
+page-col: "#E7E6FB"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
